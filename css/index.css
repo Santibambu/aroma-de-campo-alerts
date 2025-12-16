@@ -1,0 +1,8 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{background-image: url(../IMG/Fondo.jpg); background-repeat: no-repeat; background-size: cover;}
+.texto{text-align: center; color: palevioletred; margin: 20px; background-color: wheat;}
+.productos{display: flex; justify-content: space-evenly; margin: 30px;}
